@@ -9,4 +9,8 @@ public class Test {
     public void show(){
         System.out.println("hello there");
     }
+
+    public void commit(){
+        System.out.println("commit");
+    }
 }
